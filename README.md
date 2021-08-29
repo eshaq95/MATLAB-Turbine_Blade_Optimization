@@ -13,7 +13,17 @@ This is a MATLAB code that I developed for my Sustainable Energy Group Design Pr
 
 ![image](https://user-images.githubusercontent.com/72145252/130123288-71187c26-6fdb-4ff8-bd3b-3c9f8d552aec.png)
 
+<br/>
+<br/>
 
-### 2. 
+### 2. Numerical methods for Partial Differential Equations
+
+This is a numerical solution to the heat and wave equation in MATLAB. Analytical calculation is also available in the Report.docx file in the PDE directory. 
+
+#### Screenshot of the analytical surface generated using MATLAB.
+
+![image](https://user-images.githubusercontent.com/72145252/131263690-14020626-977c-4ce8-927c-c04951e0d563.png)
+![image](https://user-images.githubusercontent.com/72145252/131263692-86625846-9b90-4333-ae88-4b94ca4aff96.png)
+
 
 
