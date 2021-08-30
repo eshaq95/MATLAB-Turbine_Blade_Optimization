@@ -1,5 +1,7 @@
+
+%Author: Eshaq Rahmani
 % Wind Turbine Optimisation 1
-%
+
 % This script takes input variables of maximum radius, wind speed, rotor
 % rpm, number of blades, number of blade elements, generator efficiency and
 % the stall angle, maximum lift coefficient and the maximum lift over drag
