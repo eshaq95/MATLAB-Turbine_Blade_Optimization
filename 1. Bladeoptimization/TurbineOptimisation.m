@@ -12,8 +12,7 @@
 %The power coefficient for these paramiters is returned as is the net 
 %power of the turbine. 
 
-%% Notes for Nathan, 
-% 
+%% Notes for Nathan,
 % I belive this method is fundementally flawed for radii above, or 
 % approaching 2m, but this will obviously be fine for our turbine
 %
