@@ -1,5 +1,3 @@
-Here's an improved version of the README file for your MATLAB projects repository:
-
 # MATLAB Projects
 
 This repository contains MATLAB codes developed for various Mechanical Engineering courses at the University of Edinburgh. These projects showcase practical applications of MATLAB in engineering problem-solving and analysis.
